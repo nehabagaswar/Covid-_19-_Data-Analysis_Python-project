@@ -39,5 +39,5 @@ This project focuses on analyzing COVID-19 data to uncover trends in infection r
 
 ## Contact
 For further discussion or inquiries, please reach out at:  
-**Email:** your.email@example.com  
-**LinkedIn:** [Your LinkedIn URL]
+**Email:** nehabagaswar28@gmail.com
+**LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/neha-bagaswar/)]
