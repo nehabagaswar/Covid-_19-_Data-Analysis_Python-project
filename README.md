@@ -31,3 +31,13 @@ This project focuses on analyzing COVID-19 data to uncover trends in infection r
 2. Install the dependencies using:
    ```bash
    pip install -r requirements.txt
+   ```
+3. Execute the analysis notebooks or scripts:
+   ```bash
+   jupyter notebook Covid19_Analysis.ipynb
+   ```
+
+## Contact
+For further discussion or inquiries, please reach out at:  
+**Email:** your.email@example.com  
+**LinkedIn:** [Your LinkedIn URL]
